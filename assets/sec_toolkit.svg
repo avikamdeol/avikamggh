@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 84" width="100%" role="img" aria-label="TOOLKIT">
+<defs><linearGradient id="ft" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff6d6"/><stop offset=".45" stop-color="#ffd166"/><stop offset="1" stop-color="#ff7a18"/></linearGradient>
+<linearGradient id="l1" x1="0" x2="1"><stop offset="0" stop-color="#ff2e4d" stop-opacity="0"/><stop offset="1" stop-color="#ff7a18"/></linearGradient>
+<linearGradient id="l2" x1="0" x2="1"><stop offset="0" stop-color="#ff7a18"/><stop offset="1" stop-color="#ff2e4d" stop-opacity="0"/></linearGradient>
+<filter id="b" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="7"/></filter></defs>
+<line x1="20" y1="42" x2="383.5" y2="42" stroke="url(#l1)" stroke-width="3"/><line x1="616.5" y1="42" x2="980" y2="42" stroke="url(#l2)" stroke-width="3"/>
+<line x1="20" y1="42" x2="383.5" y2="42" stroke="#fff" stroke-width="3" stroke-dasharray="30 400"><animate attributeName="stroke-dashoffset" values="430;-30" dur="2.4s" repeatCount="indefinite"/></line>
+<line x1="616.5" y1="42" x2="980" y2="42" stroke="#fff" stroke-width="3" stroke-dasharray="30 400"><animate attributeName="stroke-dashoffset" values="-30;430" dur="2.4s" repeatCount="indefinite"/></line>
+<path d="M387.5,42 l8,-8 l8,8 l-8,8Z M596.5,42 l8,-8 l8,8 l-8,8Z" fill="#ffd166"><animate attributeName="opacity" values="1;.3;1" dur="1.6s" repeatCount="indefinite"/></path>
+<text x="500" y="54" text-anchor="middle" textLength="189" font-family="'Arial Black','Impact','Segoe UI Black',sans-serif" font-size="30" fill="#ff7a18" filter="url(#b)"><animate attributeName="opacity" values=".5;1;.6;1" dur="2s" repeatCount="indefinite"/>TOOLKIT</text>
+<text x="500" y="54" text-anchor="middle" textLength="189" font-family="'Arial Black','Impact','Segoe UI Black',sans-serif" font-size="30" fill="url(#ft)" stroke="#07040d" stroke-width="1" paint-order="stroke">TOOLKIT</text></svg>

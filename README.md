@@ -2,42 +2,36 @@
 
 <img src="https://raw.githubusercontent.com/avikamggh/avikamggh/main/assets/header.svg" alt="Avikam Deol" width="100%"/>
 
-<a href="https://avikam.xploreon.space"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=00FF9C&background=02060D&center=true&vCenter=true&width=760&height=60&lines=%3E+loading+avikam_deol.exe+...;%3E+CEO+%40+Xploreon+%7C+Founder+%40+Avime+Studios;%3E+Researching+%3A%3A+Chronorider+X1;%3E+Author+%3A%3A+Quantum+Echoes+of+Ancient+India;%3E+ISRO+Young+Scientist+%7C+IIT+Roorkee+Winner"/></a>
+<a href="https://avikam.xploreon.space"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=FFB347&background=07040D&center=true&vCenter=true&width=780&height=60&lines=%3E+waking+the+dragon+...;%3E+CEO+%40+Xploreon+%7C+Founder+%40+Avime+Studios;%3E+Researching+%3A%3A+Chronorider+X1;%3E+Author+%3A%3A+Quantum+Echoes+of+Ancient+India;%3E+ISRO+Young+Scientist+%7C+IIT+Roorkee+Winner"/></a>
 
-<a href="https://avikam.xploreon.space"><img src="https://img.shields.io/badge/PORTFOLIO-ACCESS_GRANTED-00ff9c?style=for-the-badge&logo=gnometerminal&logoColor=00ff9c&labelColor=02060d"/></a>
-<a href="https://www.xploreon.space"><img src="https://img.shields.io/badge/XPLOREON-FOUNDER-00d4ff?style=for-the-badge&logo=rocket&logoColor=00d4ff&labelColor=02060d"/></a>
-<a href="https://www.linkedin.com/in/avikamdeol"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=02060d"/></a>
-<a href="https://x.com/avikamdeol"><img src="https://img.shields.io/badge/X-FOLLOW-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=02060d"/></a>
-<a href="mailto:founder@xploreon.space"><img src="https://img.shields.io/badge/MAIL-FOUNDER@XPLOREON.SPACE-ff2bd6?style=for-the-badge&logo=gmail&logoColor=ff2bd6&labelColor=02060d"/></a>
+<a href="https://avikam.xploreon.space"><img src="https://img.shields.io/badge/PORTFOLIO-ENTER-ff7a18?style=for-the-badge&logo=gnometerminal&logoColor=ffd166&labelColor=07040d"/></a>
+<a href="https://www.xploreon.space"><img src="https://img.shields.io/badge/XPLOREON-FOUNDER-ff2e4d?style=for-the-badge&logo=rocket&logoColor=ffd166&labelColor=07040d"/></a>
+<a href="https://www.linkedin.com/in/avikamdeol"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=07040d"/></a>
+<a href="https://x.com/avikamdeol"><img src="https://img.shields.io/badge/X-FOLLOW-67e8f9?style=for-the-badge&logo=x&logoColor=67e8f9&labelColor=07040d"/></a>
+<a href="mailto:founder@xploreon.space"><img src="https://img.shields.io/badge/MAIL-FOUNDER@XPLOREON.SPACE-ffd166?style=for-the-badge&logo=gmail&logoColor=ffd166&labelColor=07040d"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=avikamggh&color=00ff9c&style=for-the-badge&label=SYSTEM+BREACHES&labelColor=02060d"/>
+<img src="https://komarev.com/ghpvc/?username=avikamggh&color=ff7a18&style=for-the-badge&label=SOULS+BURNED&labelColor=07040d"/>
 
 <img src="https://raw.githubusercontent.com/avikamggh/avikamggh/main/assets/terminal.svg" alt="terminal" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/avikamggh/avikamggh/main/assets/divider.svg" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/avikamggh/avikamggh/main/assets/chronorider.svg" alt="Chronorider X1" width="100%"/>
+<img src="https://raw.githubusercontent.com/avikamggh/avikamggh/main/assets/chronorider.svg" alt="Chronorider X1 research in progress" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/avikamggh/avikamggh/main/assets/divider.svg" width="100%"/>
-
-## `[ ACHIEVEMENTS_UNLOCKED ]`
+<img src="https://raw.githubusercontent.com/avikamggh/avikamggh/main/assets/sec_achievements.svg" alt="Achievements unlocked" width="100%"/>
 
 | 🥇 TRADE OF TITANS | 🏅 TECHZIBITION | 🚀 ISRO | 📖 AUTHOR |
 |:---:|:---:|:---:|:---:|
 | **1st Place** | **Top 5 Finalist** | **Young Scientist** | **Published 2026** |
 | IIT Roorkee | IIT Roorkee | Program recognition | Quantum Echoes of Ancient India |
 
-[![Get the book](https://img.shields.io/badge/DOWNLOAD_BOOK-AMAZON-ff9900?style=for-the-badge&logo=amazon&logoColor=ff9900&labelColor=02060d)](https://www.amazon.in/dp/B0GTJVJWPN)
+[![Get the book](https://img.shields.io/badge/GET_THE_BOOK-AMAZON-ff9900?style=for-the-badge&logo=amazon&logoColor=ffd166&labelColor=07040d)](https://www.amazon.in/dp/B0GTJVJWPN)
 
-<img src="https://raw.githubusercontent.com/avikamggh/avikamggh/main/assets/divider.svg" width="100%"/>
-
-## `[ TOOLKIT ]`
+<img src="https://raw.githubusercontent.com/avikamggh/avikamggh/main/assets/sec_toolkit.svg" alt="Toolkit" width="100%"/>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,react,express,mongodb,git,github,vscode,linux&theme=dark&perline=12"/>
 
-<img src="https://raw.githubusercontent.com/avikamggh/avikamggh/main/assets/divider.svg" width="100%"/>
-
-## `[ DEPLOYED_PROJECTS ]`
+<img src="https://raw.githubusercontent.com/avikamggh/avikamggh/main/assets/sec_projects.svg" alt="Deployed projects" width="100%"/>
 
 </div>
 
@@ -76,23 +70,17 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/avikamggh/avikamggh/main/assets/divider.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/avikamggh/avikamggh/main/assets/sec_telemetry.svg" alt="Telemetry" width="100%"/>
 
-## `[ TELEMETRY ]`
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=avikamggh&show_icons=true&include_all_commits=true&border_color=ff7a18&bg_color=07040d&title_color=ff7a18&text_color=fdf2e9&icon_color=ffd166&ring_color=ff2e4d"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avikamggh&layout=compact&border_color=ff7a18&bg_color=07040d&title_color=ff7a18&text_color=fdf2e9"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=avikamggh&show_icons=true&include_all_commits=true&hide_border=false&border_color=00ff9c&bg_color=02060d&title_color=00ff9c&text_color=9be8c1&icon_color=00d4ff&ring_color=00ff9c"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avikamggh&layout=compact&border_color=00ff9c&bg_color=02060d&title_color=00ff9c&text_color=9be8c1"/>
+<img src="https://streak-stats.demolab.com?user=avikamggh&background=07040D&border=FF7A18&ring=FF2E4D&fire=FFD166&currStreakLabel=FF7A18&sideLabels=67E8F9&currStreakNum=FDF2E9&sideNums=FDF2E9&dates=B8A0B0&currStreakDate=B8A0B0"/>
 
-<img src="https://streak-stats.demolab.com?user=avikamggh&background=02060D&border=00FF9C&ring=00FF9C&fire=00D4FF&currStreakLabel=00FF9C&sideLabels=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9BE8C1"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=avikamggh&bg_color=02060d&color=00ff9c&line=00ff9c&point_color=00d4ff&area=true&area_color=00ff9c&hide_border=true&title_color=00ff9c"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=avikamggh&bg_color=07040d&color=ff7a18&line=ff7a18&point=ffd166&area=true&area_color=ff2e4d&hide_border=true&title_color=ff7a18"/>
 
 <img src="https://raw.githubusercontent.com/avikamggh/avikamggh/output/github-snake-dark.svg" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/avikamggh/avikamggh/main/assets/divider.svg" width="100%"/>
-
-`>` *"The universe is under no obligation to make sense to you."*
-
-**Open to collabs: space-tech // EdTech // AI // research**
+<img src="https://raw.githubusercontent.com/avikamggh/avikamggh/main/assets/footer.svg" alt="footer" width="100%"/>
 
 </div>
